@@ -4,10 +4,7 @@ Monte Carlo Simulation for Polarized Light Transport
 
 Overview
 
-This repository contains a Monte Carlo simulation code for polarized light transport in scattering media. The code is based on the work published in:
-
-J. Ramella-Roman, S. A. Prahl, S. L. Jacques, Three Monte Carlo programs of polarized light transport into scattering media: Part I, Optics Express, 2005.
-
+This repository contains a Monte Carlo simulation code for polarized light transport in scattering media. 
 Compilation and Execution
 
 Compilation
